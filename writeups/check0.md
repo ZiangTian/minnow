@@ -1,9 +1,9 @@
 Checkpoint 0 Writeup
 ====================
 
-My name: [your name here]
+My name: Benjamin
 
-My SUNet ID: [your sunetid here]
+My SUNet ID: none
 
 I collaborated with: [list sunetids here]
 
